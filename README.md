@@ -18,13 +18,14 @@
 ```javascript
 const jayadana = {
   pronouns: "He" | "Him",
-  code: ["Javascript", "PHP", "Python", "HTML", "CSS", "C++"],
-  askMeAbout: ["web dev", "backend dev", "php", "laravel"],
+  code: ["Javascript", "PHP", "Python", "HTML", "CSS", "C++"], // Bahasa pemrograman yang dikuasai
+  askMeAbout: ["web dev", "backend dev", "php", "laravel"], // Topik yang dapat ditanyakan
   technologies: {
-      frontend: ["blade", "CSS", "JS", "daisyui"],
-      backend: ["laravel", "JS"],
+      frontend: ["blade", "CSS", "JS", "daisyui"], // Teknologi frontend yang dikuasai
+      backend: ["laravel", "JS"], // Teknologi backend yang dikuasai
   }
 }
+
 ```
 
 
