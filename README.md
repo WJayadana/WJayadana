@@ -16,7 +16,7 @@
 
 #### A little more about me
 ```javascript
-const badri = {
+const jayadana = {
   pronouns: "He" | "Him",
   code: ["Javascript", "PHP", "Python", "HTML", "CSS", "C++"],
   askMeAbout: ["web dev", "backend dev", "php", "laravel"],
