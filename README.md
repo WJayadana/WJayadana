@@ -44,7 +44,7 @@ const jayadana = {
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=WJayadana&row=2&column=6&theme=onedark&column=8&no-frame=false&no-bg=false" alt="MrBlueBird2"></a></p>
 
 #### Stats
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a>
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=WJayadana&show_icons=true&include_all_commits=true&theme=onedark" alt="Badri's github stats" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
