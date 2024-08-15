@@ -47,7 +47,7 @@ const jayadana = {
 <a>
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=WJayadana&show_icons=true&include_all_commits=true&theme=onedark" alt="Badri's github stats" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a>
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=WJayadana&layout=compact&theme=onedark" />
 </a>
