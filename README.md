@@ -54,7 +54,7 @@ const jayadana = {
 <br />
 <br />
 <p align="center">
-  <img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=WJayadana&theme=onedark" alt="MrBlueBird2" />
+  <img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=WJayadana&theme=onedark"/>
 </p>
 
 
