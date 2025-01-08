@@ -50,7 +50,7 @@ backend: ["laravel", "JS"], // Teknologi backend yang dikuasai
 <a>
 <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   
-![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Wjayadana\&hide_progress=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wjayadana&hide=javascript,html)
+![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Wjayadana&hide_progress=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wjayadana&hide=XML,Rich%20Text%20Format&theme=tokyonight&layout=compact&langs_count=8)
 
 ------
