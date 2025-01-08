@@ -54,7 +54,7 @@ backend: ["laravel", "JS"], // Teknologi backend yang dikuasai
 <br />
 <br />
 <p align="center">
-<img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=WJayadana&theme=onedark" alt="MrBlueBird2" />
+<img align="center" height="150em" src="https://streak-stats.demolab.com/?user=WJayadana&theme=onedark" alt="MrBlueBird2" />
 </p>
 
 
