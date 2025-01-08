@@ -51,5 +51,6 @@ backend: ["laravel", "JS"], // Teknologi backend yang dikuasai
 <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   
 ![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Wjayadana\&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wjayadana&hide=javascript,html)
 
 ------
