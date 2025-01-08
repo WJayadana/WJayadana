@@ -53,11 +53,8 @@ const jayadana = {
 </a>
 <br />
 <br />
-<p align="center">
-  <img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=WJayadana&theme=onedark"/>
-  ![GitHub Streak Stats](https://streak-stats.demolab.com/?user=WJayadana&theme=onedark)
 
-</p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 
 #### I'm an Early 🐤
