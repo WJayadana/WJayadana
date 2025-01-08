@@ -55,6 +55,7 @@ const jayadana = {
 <br />
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Wjayadana's Github stats](https://streak-stats.demolab.com/?user=WJayadana&theme=onedark) 
 
 
 #### I'm an Early 🐤
