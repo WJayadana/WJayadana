@@ -40,34 +40,34 @@ backend: ["laravel", "JS"], // Teknologi backend yang dikuasai
 </a>
 
 #### Trophies
-<p align="center">
+<p>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=WJayadana&row=2&column=6&theme=onedark&column=8&no-frame=false&no-bg=false" alt="Trophies">
   </a>
 </p>
 
 #### Stats
-<p align="center">
+<p>
   <a>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=WJayadana&show_icons=true&include_all_commits=true&theme=onedark" alt="WJayadana's GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=WJayadana&show_icons=true&include_all_commits=true&theme=onedark" alt="WJayadana's GitHub stats" />
   </a>
 </p>
 
-<p align="center">
+<p>
   <a>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=WJayadana&hide_progress=true&theme=tokyonight" alt="WJayadana's WakaTime stats" />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=WJayadana&hide_progress=true&theme=tokyonight" alt="WJayadana's WakaTime stats" />
   </a>
 </p>
 
-<p align="center">
+<p>
   <a>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WJayadana&hide=XML,Rich%20Text%20Format&theme=tokyonight&layout=compact&langs_count=8" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WJayadana&hide=XML,Rich%20Text%20Format&theme=tokyonight&layout=compact&langs_count=8" alt="Top Languages" />
   </a>
 </p>
 
-<p align="center">
+<p>
   <a>
-    <img align="center" src="https://api.githubtrends.io/user/svg/WJayadana/langs?time_range=one_year&theme=dark" alt="GitHub Trends" />
+    <img src="https://api.githubtrends.io/user/svg/WJayadana/langs?time_range=one_year&theme=dark" alt="GitHub Trends" />
   </a>
 </p>
 
