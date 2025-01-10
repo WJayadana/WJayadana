@@ -53,5 +53,7 @@ backend: ["laravel", "JS"], // Teknologi backend yang dikuasai
 ![Wjayadana's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Wjayadana&hide_progress=true&theme=tokyonight)
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wjayadana&hide=XML,Rich%20Text%20Format&theme=tokyonight&layout=compact&langs_count=8)
+<br>
+![hhh](https://api.githubtrends.io/user/svg/WJayadana/langs?time_range=one_year&theme=dark)
 
 ------
