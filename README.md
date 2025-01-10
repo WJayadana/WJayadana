@@ -47,23 +47,23 @@ backend: ["laravel", "JS"], // Teknologi backend yang dikuasai
 </p>
 
 #### Stats
-<div style="display: flex; gap: 10px;">
+<p>
   <a>
     <img src="https://github-readme-stats.vercel.app/api?username=WJayadana&show_icons=true&include_all_commits=true&theme=onedark" alt="WJayadana's GitHub stats" />
   </a>
   <a>
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=WJayadana&hide_progress=true&theme=tokyonight" alt="WJayadana's WakaTime stats" />
   </a>
-</div>
+</p>
 
-<div style="display: flex; gap: 10px;">
+<p>
   <a>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WJayadana&hide=XML,Rich%20Text%20Format&theme=tokyonight&layout=compact&langs_count=8" alt="Top Languages" />
   </a>
   <a>
     <img src="https://api.githubtrends.io/user/svg/WJayadana/langs?time_range=one_year&theme=dark" alt="GitHub Trends" />
   </a>
-</div>
+</p>
 
 
 ------
