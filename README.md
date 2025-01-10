@@ -52,7 +52,9 @@ const jayadana = {
   <a>
     <img src="https://github-readme-stats.vercel.app/api?username=WJayadana&show_icons=true&include_all_commits=true&theme=onedark" alt="WJayadana's GitHub stats" />
   </a>
-  <a>
+</p>
+<p>
+   <a>
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=WJayadana&hide_progress=true&theme=tokyonight" alt="WJayadana's WakaTime stats" />
   </a>
 </p>
