@@ -40,19 +40,36 @@ backend: ["laravel", "JS"], // Teknologi backend yang dikuasai
 </a>
 
 #### Trophies
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=WJayadana&row=2&column=6&theme=onedark&column=8&no-frame=false&no-bg=false" alt="MrBlueBird2"></a></p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=WJayadana&row=2&column=6&theme=onedark&column=8&no-frame=false&no-bg=false" alt="Trophies">
+  </a>
+</p>
 
 #### Stats
-<a>
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=WJayadana&show_icons=true&include_all_commits=true&theme=onedark" alt="Badri's github stats" />
-</a>
-<a>
-<!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  
-![Wjayadana's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Wjayadana&hide_progress=true&theme=tokyonight)
-<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wjayadana&hide=XML,Rich%20Text%20Format&theme=tokyonight&layout=compact&langs_count=8)
-![hhh](https://api.githubtrends.io/user/svg/WJayadana/langs?time_range=one_year&theme=dark)
+<p align="center">
+  <a>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=WJayadana&show_icons=true&include_all_commits=true&theme=onedark" alt="WJayadana's GitHub stats" />
+  </a>
+</p>
+
+<p align="center">
+  <a>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=WJayadana&hide_progress=true&theme=tokyonight" alt="WJayadana's WakaTime stats" />
+  </a>
+</p>
+
+<p align="center">
+  <a>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WJayadana&hide=XML,Rich%20Text%20Format&theme=tokyonight&layout=compact&langs_count=8" alt="Top Languages" />
+  </a>
+</p>
+
+<p align="center">
+  <a>
+    <img align="center" src="https://api.githubtrends.io/user/svg/WJayadana/langs?time_range=one_year&theme=dark" alt="GitHub Trends" />
+  </a>
+</p>
+
 
 ------
