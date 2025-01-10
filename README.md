@@ -61,6 +61,8 @@ const jayadana = {
   <a>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WJayadana&hide=XML,Rich%20Text%20Format&theme=tokyonight&layout=compact&langs_count=8" alt="Top Languages" />
   </a>
+</p>
+<p>
   <a>
     <img src="https://api.githubtrends.io/user/svg/WJayadana/langs?time_range=one_year&theme=dark" alt="GitHub Trends" />
   </a>
