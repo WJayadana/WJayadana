@@ -47,7 +47,7 @@ backend: ["laravel", "JS"], // Teknologi backend yang dikuasai
 </p>
 
 #### Stats
-<div style="display: flex; flex-direction: row; gap: 10px;">
+<div style="display: flex; flex-direction: row; align-items: flex-start; gap: 10px;">
   <a>
     <img src="https://github-readme-stats.vercel.app/api?username=WJayadana&show_icons=true&include_all_commits=true&theme=onedark" alt="WJayadana's GitHub stats" />
   </a>
@@ -56,7 +56,7 @@ backend: ["laravel", "JS"], // Teknologi backend yang dikuasai
   </a>
 </div>
 
-<div style="display: flex; flex-direction: row; gap: 10px;">
+<div style="display: flex; flex-direction: row; align-items: flex-start; gap: 10px;">
   <a>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WJayadana&hide=XML,Rich%20Text%20Format&theme=tokyonight&layout=compact&langs_count=8" alt="Top Languages" />
   </a>
