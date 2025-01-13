@@ -21,7 +21,7 @@
 ```javascript
 const jayadana = {
   pronouns: "He" | "Him",
-  code: ["Javascript", "PHP", "Python", "HTML", "CSS", "C++"],
+  code: ["Javascript", "PHP", "Python", "HTML", "CSS"],
   askMeAbout: ["web dev", "backend dev", "php", "laravel"],
   technologies: {
     frontend: ["blade", "CSS", "JS", "daisyui"],
