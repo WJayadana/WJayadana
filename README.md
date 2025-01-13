@@ -10,7 +10,7 @@
 <p>I am a Back-end developer, I'm a Competitive Programmer, I also like to create projects in Laravel.</p>
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Developer GIF">
 <ul>
-  <li>👋 Hi, I’m @WJayadana</li>
+  <li>👋 Hi, I’m Jayadana</li>
   <li>❤️ I love Creating websites and Programming in PHP.</li>
   <li>🌱 I’m currently learning Web Development, Android Development, PHP, C++, Java, Python, and JS.</li>
   <li>💼 I'm a Backend developer at Jayacorp.</li>
