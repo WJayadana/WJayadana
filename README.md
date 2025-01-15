@@ -1,5 +1,5 @@
 <p align="center">
-  <h1>Welcome to <a href="https://github.com/WJayadana">Jayadana</a>'s Profile 👋</h1>
+  <h1>Welcome to <a href="https://github.com/WJayadana">Wahyudi Jayadana</a>'s Profile 👋</h1>
 </p>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
