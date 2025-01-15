@@ -20,7 +20,6 @@
 #### A little more about me
 ```javascript
 const jayadana = {
-  pronouns: "He" | "Him",
   code: ["Javascript", "PHP", "Python", "HTML", "CSS"],
   askMeAbout: ["web dev", "backend dev", "php", "laravel"],
   technologies: {
