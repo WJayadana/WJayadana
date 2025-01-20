@@ -7,7 +7,7 @@
   </a>
 </p>
 
-<p>I am a Back-end developer, I'm a Competitive Programmer, I also like to create projects in Laravel.</p>
+<p>I am a Back-end developer, I'm a Solo Programmer, I also like to create projects in Laravel.</p>
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Developer GIF">
 <ul>
   <li>👋 Hi, I’m Jayadana</li>
