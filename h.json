@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Tachiyomi: Shinigami",
+        "pkg": "jayadana.tachiyomi.revived.id.shinigami",
+        "apk": "tachiyomi-id.shinigami-revived-v1.4.41.apk",
+        "lang": "id",
+        "code": 41,
+        "version": "6.27.24",
+        "nsfw": 0,
+        "hasReadme": 0,
+        "hasChangelog": 0,
+        "sources": [
+            {
+                "name": "Shinigami",
+                "lang": "id",
+                "id": "3411809758861089969",
+                "baseUrl": "https://shinigami09.com/",
+                "versionId": 1,
+                "hasCloudflare": 1
+            }
+        ]
+    }
+]
