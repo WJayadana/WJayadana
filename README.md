@@ -31,6 +31,12 @@ const jayadana = {
 
 #### Popular Projects
 <p>
+  <a href="https://github.com/WJayadana/jywa-digi">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=WJayadana&repo=jywa-digi&theme=onedark" alt="Digiflazz Library Project" />
+  </a>
+  <a href="https://github.com/WJayadana/jywa-digi">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=WJayadana&repo=jywa-baileys&theme=onedark" alt="Baileys Project" />
+  </a>
   <a href="https://github.com/WJayadana/jayabsen">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=WJayadana&repo=jayabsen&theme=onedark" alt="Jayabsen Project" />
   </a>
