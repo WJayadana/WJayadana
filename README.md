@@ -25,8 +25,7 @@ const jayadana = {
   technologies: {
     frontend: ["blade", "CSS", "JS", "daisyui"],
     backend: ["laravel", "JS"],
-  },
-  someone: "ciya"
+  }
 };
 ```
 
