@@ -13,7 +13,7 @@
   <li>👋 Hi, I’m Jayadana</li>
   <li>❤️ I love Creating websites and Programming in PHP.</li>
   <li>🌱 I’m currently learning Web Development, Android Development, PHP, Java, Python, and JS.</li>
-  <li>💼 I'm a Backend developer at Jayacorp.</li>
+  <li>💼 I'm a Backend developer at Jywa Group.</li>
   <li>🧐 Portfolio Website: <a href="https://wjayadana.github.io">wjayadana.github.io</a></li>
 </ul>
 
