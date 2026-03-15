@@ -37,11 +37,11 @@ const jayadana = {
   <a href="https://github.com/WJayadana/jywa-digi">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=WJayadana&repo=jywa-baileys&theme=onedark" alt="Baileys Project" />
   </a>
-  <a href="https://github.com/WJayadana/jayabsen">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=WJayadana&repo=jayabsen&theme=onedark" alt="Jayabsen Project" />
+  <a href="https://github.com/WJayadana/JywaPlayer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=WJayadana&repo=JywaPlayer&theme=onedark" alt="Jywa Player" />
   </a>
-  <a href="https://github.com/WJayadana/laravel-installer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=WJayadana&repo=laravel-installer&theme=onedark" alt="Laravel Installer Project" />
+  <a href="https://github.com/WJayadana/LingerBase">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=WJayadana&repo=LingerBase&theme=onedark" alt="Linger Base" />
   </a>
 </p>
 
